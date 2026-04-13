@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/contributions/route": "app/api/contributions/route.js",
+  "/api/badge/[username]/route": "app/api/badge/[username]/route.js",
+  "/api/ai/piming/route": "app/api/ai/piming/route.js",
+  "/api/ai/story/route": "app/api/ai/story/route.js",
+  "/page": "app/page.js",
+  "/api/ai/repo-diagnosis/route": "app/api/ai/repo-diagnosis/route.js"
+}
