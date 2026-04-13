@@ -24,7 +24,7 @@ npm run start
 
 ### 本地运行
 1. 克隆项目：`git clone <仓库地址>`
-2. 进入目录：`cd 20260411Trae/internal`
+2. 进入目录：`cd GitHubStarChart`
 3. 安装依赖：`npm install`
 4. 启动开发服务器：`npm run dev`
 5. 访问：`http://localhost:3000`
